@@ -30,8 +30,8 @@ const styles = StyleSheet.create({
     backgroundColor: '#37474F',  
   },
   image: {
-    width: 150,
-    height: 150,
+    width: 175,
+    height: 175,
     borderRadius: 100,
     margin: 10,
     borderColor: '#E0E0E0',  
@@ -41,7 +41,7 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   nameText: {
-    fontSize: 16,
+    fontSize: 25,
     fontWeight: 'bold',
     color: '#263238',  
     paddingTop: 15,

@@ -67,7 +67,6 @@ const styles = StyleSheet.create({
     shadowOpacity: 0.1,
     shadowRadius: 10,
     elevation: 20,
-    marginBottom: 20,
   },
   darkContainer: {
     backgroundColor: '#1C1C1E', 
@@ -81,7 +80,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     justifyContent: 'space-between',
-    padding: 15,
+    padding: 25,
     borderRadius: 10,
     marginVertical: 2,
   },
@@ -96,7 +95,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#2C2C2E',
   },
   header: {
-    fontSize: 22,
+    fontSize: 30,
     fontWeight: '700',
     marginBottom: 10,
     color: '#000',
